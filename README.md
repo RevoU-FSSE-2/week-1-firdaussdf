@@ -14,6 +14,6 @@ CSS
 
 2. css styling image with border radius 
 
-javascript
+JAVASCRIPT
 
 1. javascript alert with button
