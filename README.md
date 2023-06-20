@@ -1,1 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/l9v8sNrv)
+HTML: the website is created using HTML5
+1.Creating page section such as Header
+2.Using texts such as Heading, Paragraph
+3.Adding additional content such as Image and Button.
+
+
+css 
+1.style with css font
+2. css styling image with border radius 
+
+javascript
+1. javascript alert with button
