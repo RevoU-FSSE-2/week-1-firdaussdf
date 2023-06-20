@@ -7,7 +7,9 @@ HTML: the website is created using HTML5
 css
 
 1.style with css font
+
 2. css styling image with border radius 
 
 javascript
+
 1. javascript alert with button
